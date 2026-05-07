@@ -1,8 +1,12 @@
-# Activity 4. Parabolic Shot Game
+# Parabolic Shot Game
 
-Cannon game implemented in python
-[Original code](http://www.grantjenks.com/docs/freegames/cannon.html)
+> Cannon game built in Python. Fire projectiles at moving balls using parabolic physics.
 
-- New Features:
-  - The movement speed for the projectile and the balls is faster
-  - The game never end, the balls reposition themselves when they go out of the window.
+Based on [Grant Jenks' freegames cannon](http://www.grantjenks.com/docs/freegames/cannon.html).
+
+---
+
+## Changes
+
+- Projectile and ball movement speed increased
+- Balls reposition when leaving the window — game never ends
