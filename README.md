@@ -6,7 +6,7 @@ Based on [Grant Jenks' freegames cannon](http://www.grantjenks.com/docs/freegame
 
 ---
 
-## Changes
+# Changes
 
 - Projectile and ball movement speed increased
 - Balls reposition when leaving the window — game never ends
